@@ -1,0 +1,44 @@
+{
+  "site": {
+    "title": "Resumen Profesional de Hugo Norte - Desarrollador Full Stack"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Mí",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "academic": "Académico",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "role": "Desarrollador Full Stack",
+    "catchphrase": "Transformando problemas complejos en soluciones escalables a través de la tecnología.",
+    "contact": "Contactar",
+    "viewProjects": "Ver proyectos"
+  },
+  "about": {
+    "title": "Resumen Ejecutivo",
+    "p1": "Soy un Desarrollador Full Stack apasionado por resolver problemas reales a través del código. Trabajo con todo el ciclo de vida del software, desde el diseño de la arquitectura y la base de datos, hasta el despliegue del proyecto en la nube. Mi enfoque es siempre entregar aplicaciones que no solo funcionen bien, sino que también resuelvan de manera eficiente las necesidades del negocio.",
+    "p2": "En mi día a día, construyo productos usando lo mejor de los ecosistemas JavaScript y PHP, principalmente Nuxt, Vue.js, Node.js y Laravel. Me gusta escribir código limpio y probado, pero sé que el éxito de un proyecto va mucho más allá. Creo en la comunicación clara entre quienes programan y quienes toman decisiones, y trabajo de cerca con los equipos utilizando metodologías ágiles (Scrum) para asegurar que estamos construyendo lo correcto."
+  },
+  "tech": {
+    "title": "Stacks y Tecnologías",
+    "yearsOfExperience": "{years} años de exp."
+  },
+  "experience": {
+    "title": "Experiencia Laboral",
+    "present": "Presente"
+  },
+  "projects": {
+    "title": "Proyectos Personales",
+    "liveDemo": "Demo en Vivo",
+    "repository": "Repositorio"
+  },
+  "academic": {
+    "title": "Formación Académica"
+  },
+  "footer": {
+    "copyright": "Todos los derechos reservados."
+  }
+}

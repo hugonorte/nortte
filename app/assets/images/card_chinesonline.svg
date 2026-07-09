@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="180"
+   viewBox="0 0 84.666665 47.625"
+   version="1.1"
+   id="svg202"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="card_chinesonline.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview204"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.6551196"
+     inkscape:cx="186.56878"
+     inkscape:cy="106.01231"
+     inkscape:window-width="3440"
+     inkscape:window-height="1368"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs199">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient516"
+       id="linearGradient518"
+       x1="66.578949"
+       y1="87.131577"
+       x2="134.3158"
+       y2="156.60527"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2186869,0,0,0.66339805,-81.138894,-57.802919)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient516">
+      <stop
+         style="stop-color:#560000;stop-opacity:1;"
+         offset="0"
+         id="stop512" />
+      <stop
+         style="stop-color:#c10000;stop-opacity:1;"
+         offset="1"
+         id="stop514" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1383"
+       id="linearGradient1385"
+       x1="103.05264"
+       y1="28.947365"
+       x2="100.73684"
+       y2="167.3158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2186847,0,0,0.81790357,-81.138678,-70.989687)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1383">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.35732648;"
+         offset="0"
+         id="stop1379" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1381" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient518);fill-opacity:1;stroke-width:0.356851;stroke-linecap:round;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect398"
+       width="84.666664"
+       height="47.625"
+       x="4.7869378e-07"
+       y="-1.5617357e-07"
+       ry="0" />
+    <path
+       id="rect398-7"
+       style="fill:url(#linearGradient1385);fill-opacity:1;stroke-width:0.396233;stroke-linecap:round;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 42.333336,24.188616 A 70.555435,25.333489 0 0 0 -5.860236e-7,29.273257 v 23.957822 c 0,3.191703 3.8287792860236,5.761334 8.5844402860236,5.761334 H 76.08223 c 4.755655,0 8.584437,-2.569631 8.584437,-5.761334 V 29.256777 A 70.555435,25.333489 0 0 0 42.333336,24.188616 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.22172px;line-height:1.25;font-family:Alkatra;-inkscape-font-specification:Alkatra;stroke-width:0.685107"
+       x="21.90139"
+       y="25.383038"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, ';fill:#ffffff;stroke-width:0.685107"
+         x="21.90139"
+         y="25.383038">ChinêsOnline</tspan></text>
+  </g>
+</svg>
