@@ -120,6 +120,7 @@ const navLinks = [
   { key: 'skills', to: '#skills' },
   { key: 'experience', to: '#experience' },
   { key: 'projects', to: '#projects' },
-  { key: 'academic', to: '#academic' }
+  { key: 'academic', to: '#academic' },
+  { key: 'contact', to: '#contact' }
 ]
 </script>
