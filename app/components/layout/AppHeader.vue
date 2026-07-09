@@ -4,7 +4,7 @@
   >
     <div class="container mx-auto px-4 h-16 flex items-center justify-between">
       <!-- Logo / Name -->
-      <NuxtLink to="/" @click="scrollToTop" class="text-xl font-bold tracking-tight text-primary-600 dark:text-primary-400">
+      <NuxtLink to="/" @click="scrollToTop" class="text-[clamp(14px,4.5vw,20px)] whitespace-nowrap font-bold tracking-tight text-primary-600 dark:text-primary-400">
         &lt; HugoNorte /&gt; 
       </NuxtLink>
 
