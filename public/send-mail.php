@@ -38,7 +38,7 @@ if (empty($nome) || empty($empresa) || empty($mensagem)) {
 
 // === CONFIGURAÇÕES DO EMAIL ===
 // Insira o email da sua conta Hostinger de onde os e-mails sairão e para onde serão enviados.
-$to = 'seu-email@seudominio.com.br'; // <-- MUDE AQUI PARA O SEU EMAIL DE RECEBIMENTO
+$to = 'hugonorte@gmail.com'; // <-- MUDE AQUI PARA O SEU EMAIL DE RECEBIMENTO
 $subject = "Novo Contato pelo Site: $nome";
 
 // Montando o corpo do email
@@ -50,8 +50,8 @@ $body .= "Mensagem:\n$mensagem\n";
 
 // Headers
 // O Hostinger geralmente requer que o "From" seja um e-mail hospedado no mesmo domínio.
-$headers = "From: contato@seudominio.com.br\r\n"; // <-- MUDE AQUI PARA UM EMAIL VÁLIDO NO SEU HOST
-$headers .= "Reply-To: no-reply@seudominio.com.br\r\n";
+$headers = "From: contato@nortte.com\r\n"; // <-- MUDE AQUI PARA UM EMAIL VÁLIDO NO SEU HOST
+$headers .= "Reply-To: contato@nortte.com\r\n";
 $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
 // Enviando o e-mail usando a função nativa mail() do PHP
