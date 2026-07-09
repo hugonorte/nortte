@@ -7,7 +7,10 @@
 
       <UTabs default-value="ai" :items="items" class="w-full" :ui="{ indicator: 'bg-primary-700 dark:bg-primary-700', trigger: 'data-[state=active]:text-white dark:data-[state=active]:text-white' }">
         <template #content="{ item }">
-          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 mt-8">
+          <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-6 text-center block min-[534px]:hidden">
+            {{ item.label }}
+          </h3>
+          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 mt-4 sm:mt-8">
             <div 
               v-for="(tech, index) in technologies[item.value as keyof typeof technologies]" 
               :key="index"
