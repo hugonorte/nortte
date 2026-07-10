@@ -62,7 +62,9 @@
         <!-- Slideover panel -->
         <div class="relative z-10 w-64 h-full bg-white dark:bg-slate-900 shadow-2xl flex flex-col p-6 overflow-y-auto transform transition-transform duration-300">
           <div class="flex items-center justify-between mb-8">
-            <span class="text-lg font-bold text-primary-600 dark:text-primary-400">Menu</span>
+            <span class="text-[clamp(14px,4.5vw,20px)] whitespace-nowrap font-bold tracking-tight text-primary-600 dark:text-primary-400">
+              &lt; HugoNorte /&gt;
+            </span>
             <button 
               @click="isMobileMenuOpen = false"
               class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 dark:text-slate-300"

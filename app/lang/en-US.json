@@ -20,7 +20,9 @@
   "about": {
     "title": "Executive Summary",
     "p1": "I'm a Full Stack Developer passionate about solving real-world problems through code. I work with the entire software lifecycle, from designing the architecture and database, to deploying the project to the cloud. My focus is always on delivering applications that not only perform well but also effectively solve business needs.",
-    "p2": "In my day-to-day work, I build products using the best of the JavaScript and PHP ecosystems — mainly Nuxt, Vue.js, Node.js, and Laravel. I enjoy writing clean and tested code, but I know that a project's success goes far beyond that. I believe in clear communication between the technical and business sides, and I work closely with teams using agile methodologies (Scrum) to ensure we are building the right thing."
+    "p2": "In my day-to-day work, I build products using the best of the JavaScript and PHP ecosystems — mainly Nuxt, Vue.js, Node.js, and Laravel. I enjoy writing clean and tested code, but I know that a project's success goes far beyond that. I believe in clear communication between the technical and business sides, and I work closely with teams using agile methodologies (Scrum) to ensure we are building the right thing.",
+    "p3": "Before transitioning to software development, I worked for many years in digital marketing, e-commerce, and business strategy. This experience helps me quickly understand product objectives and translate business needs into technical solutions.",
+    "p4": "Currently pursuing a degree in Computer Science, I maintain personal projects using different tech stacks and look for opportunities to join teams that value code quality, software architecture, and continuous learning."
   },
   "tech": {
     "title": "Tech Stack",

@@ -22,6 +22,8 @@
           <div class="space-y-4 text-lg text-slate-600 dark:text-slate-300 leading-relaxed text-justify sm:text-left">
             <p>{{ $t('about.p1') }}</p>
             <p>{{ $t('about.p2') }}</p>
+            <p>{{ $t('about.p3') }}</p>
+            <p>{{ $t('about.p4') }}</p>
           </div>
         </div>
       </div>
