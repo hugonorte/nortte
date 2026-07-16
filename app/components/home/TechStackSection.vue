@@ -85,6 +85,8 @@ const technologies = {
     { name: 'PHP', icon: 'devicon:php', level: 9 },
     { name: 'MySQL', icon: 'devicon:mysql', level: 8 },
     { name: 'Docker', icon: 'devicon:docker', level: 7 },
+    { name: 'Java', icon: 'devicon:docker', level: 6 },
+    { name: 'Kotlin', icon: 'devicon:docker', level: 6 },
   ],
   devops: [
     { name: 'CI/CD', icon: 'lucide:git-merge', level: 7 },
