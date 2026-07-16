@@ -42,6 +42,10 @@ export default defineNuxtConfig({
     fallback: 'dark',
   },
   
+  icon: {
+    serverBundle: 'remote',
+  },
+
   i18n: {
     strategy: 'prefix_except_default',
     defaultLocale: 'pt-BR',
